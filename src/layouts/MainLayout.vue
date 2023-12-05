@@ -11,9 +11,9 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title> Quasar App </q-toolbar-title>
+        <q-toolbar-title> Actual Depreciation Calculator </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div><q-btn color="secondary" label="Add machine"></q-btn></div>
       </q-toolbar>
     </q-header>
 
